@@ -64,10 +64,11 @@
 * 修勾
 
 
-<div style="display:flex;justify-content:center;gap:15px">
-  <img src="./Picture/桃子.jpg" alt="桃子" style="max-width:45%" />
-  <img src="./Picture/剑.jpg" alt="剑" style="max-width:45%" />
-</div>
+<p align="center">
+  <img src="./Picture/桃子.jpg" alt="桃子.jpg" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Picture/剑.jpg" alt="剑.jpg" width="45%" />
+</p>
 
 ## **🆎 字母 (Letter)**
 
