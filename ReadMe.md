@@ -33,10 +33,11 @@
 * 彩虹心形：在正确的心形图案上实现整体彩虹色的平滑呼吸渐变。
 * 跳动的心：经典的大小交替心形图案，模拟心跳效果。
 
-<div style="display:flex;justify-content:center;gap:15px">
-  <img src="./Picture/火焰.gif" alt="火焰.gif" style="max-width:45%" />
-  <img src="./Picture/流星雨.gif" alt="流星雨.gif" style="max-width:45%" />
-</div>
+<p align="center">
+  <img src="./Picture/火焰.gif" alt="火焰.gif" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Picture/流星雨.gif" alt="流星雨.gif" width="45%" />
+</p>
 
 
 ## **🎮 复古游戏 (Game)**
@@ -64,8 +65,8 @@
 
 
 <div style="display:flex;justify-content:center;gap:15px">
-  <img src="https://image.lceda.cn/oshwhub/pullImage/2e0e03bf36b0409d9edced0787a4b3c6.jpg" alt="桃子" style="max-width:45%" />
-  <img src="https://image.lceda.cn/oshwhub/pullImage/309dec38575145f38b8ecec7cfc23da3.jpg" alt="剑" style="max-width:45%" />
+  <img src="./Picture/桃子.jpg" alt="桃子" style="max-width:45%" />
+  <img src="./Picture/剑.jpg" alt="剑" style="max-width:45%" />
 </div>
 
 ## **🆎 字母 (Letter)**
@@ -102,10 +103,11 @@
 * 充电动画：基于硬件引脚状态变化检测，接入USB即显示充电动画。
 * 电量显示：在非游戏状态下，可随时通过左右组合键查看当前电量，不同电量等级对应不同电量格数。
 
-<div style="display:flex;justify-content:center;gap:15px">
-  <img src="./Picture/电量检测.gif" alt="电量检测.gif" style="max-width:45%" />
-  <img src="./Picture/充电动画.gif" alt="充电动画.gif" style="max-width:45%" />
+<p align="center">
+  <img src="./Picture/电量检测.gif" alt="电量检测.gif" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Picture/充电动画.gif" alt="充电动画.gif" width="45%" />
+</p>
+
 </div>
 
-
-</div>
